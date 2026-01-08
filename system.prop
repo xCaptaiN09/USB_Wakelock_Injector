@@ -1,0 +1,6 @@
+ro.audio.usb.enabled=true
+persist.audio.usb.enabled=true
+audio.offload.disable=1
+ro.audio.offload_wa_path=false
+av.offload.enable=false
+persist.sys.usb.config.extra=none

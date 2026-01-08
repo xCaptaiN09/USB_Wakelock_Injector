@@ -1,0 +1,6 @@
+id=usb_wakelock_injector
+name=USB Audio Wakelock Injector
+version=v1.0
+versionCode=1
+author=xCaptaiN09
+description=Hybrid Fix: Disables USB audio sleep and forces detection.
